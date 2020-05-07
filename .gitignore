@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/node_modules
+
+debug.log
+
+/examples/react-web/.cache/
+=======
+node_modules/
+examples/react-web/.cache/
+.rpt2_cache/
+>>>>>>> df8e227119c023d745c3ef28ca38ddceee3766ed
